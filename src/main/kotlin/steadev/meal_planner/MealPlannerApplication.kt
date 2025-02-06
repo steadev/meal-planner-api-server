@@ -8,4 +8,5 @@ class MealPlannerApplication
 
 fun main(args: Array<String>) {
 	runApplication<MealPlannerApplication>(*args)
+
 }
